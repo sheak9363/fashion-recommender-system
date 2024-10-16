@@ -27,4 +27,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sheak9363/fashion-recommender-system.git
+   [git clone https://github.com/sheak9363/fashion-recommender-system.git](https://github.com/sheak9363/fashion-recommender-system.git)
